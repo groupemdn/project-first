@@ -1,5 +1,4 @@
 # Snake Game
-A Classic Snake Game 
 
 This repository contains a simple implementation of the classic Snake game using Pygame. Control the snake using the arrow keys to eat food and grow, while avoiding collisions with the walls or itself.
 

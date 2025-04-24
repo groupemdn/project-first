@@ -133,3 +133,7 @@ def game_loop():
 # Start the game
 if __name__ == "__main__":
     game_loop()
+
+        # Draw the game
+        # screen.fill(blue)
+        # pygame.draw.rect(screen, red, [food_x, food_y, snake_block, snake_block])

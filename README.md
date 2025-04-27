@@ -16,8 +16,6 @@ This repository contains a simple implementation of the classic Snake game using
 ## Requirements
 
 - Python 3.x
-- Pygame library
-
 To install Pygame, use:
 ```bash
 pip install pygame

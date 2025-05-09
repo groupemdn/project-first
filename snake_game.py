@@ -1,7 +1,7 @@
 # snake_game.py
 
 import pygame
-import time
+import os
 import pandas 
 
 # Initialize Pygame

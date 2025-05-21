@@ -2,7 +2,6 @@
 
 import pygame
 import os
-import pandas 
 
 # Initialize Pygame
 pygame.init()

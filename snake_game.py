@@ -7,12 +7,12 @@ import os
 pygame.init()
 
 # Screen dimensions
-width, height = 600, 400
+width, height = 600, 400, 700
 screen = pygame.display.set_mode((width, height))
 pygame.display.set_caption("Snake Game")
 
 # Colors
-black = (0, 0, 0)
+black = (0, 0, 0, 0)
 white = (255, 255, 255)
 red = (213, 50, 80)
 green = (0, 255, 0)

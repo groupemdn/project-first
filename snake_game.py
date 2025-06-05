@@ -1,6 +1,6 @@
 # snake_game.py
 
-import pygame
+import pygame as pg
 import os
 
 # Initialize Pygame

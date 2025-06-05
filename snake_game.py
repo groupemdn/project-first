@@ -7,7 +7,7 @@ import os
 pygame.init()
 
 # Screen dimensions
-width, height = 600, 400, 700
+width, height = 600, 400, 700, 800
 screen = pygame.display.set_mode((width, height))
 pygame.display.set_caption("Snake Game")
 
